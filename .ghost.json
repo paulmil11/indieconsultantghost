@@ -1,0 +1,10 @@
+    {
+        "development": {
+            "apiUrl": "https://indieconsultant.herokuapp.com",
+            "contentApiKey": "c3ceb5dcbb2983cd94fd5f214e"
+        },
+        "production": {
+            "apiUrl": "https://indieconsultant.herokuapp.com",
+            "contentApiKey": "c3ceb5dcbb2983cd94fd5f214e"
+        }
+    }
